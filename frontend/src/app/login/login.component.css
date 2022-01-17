@@ -1,8 +1,25 @@
+.container {
+    margin-top: 100px;
+}
+
 .card-title {
     height: 60px;
     display: flex;
+    flex-direction: column;
     align-items: center;
-    background-color: #002151;
+    background-color: #003584;
     color: white;
     font-weight: 600;
+    padding-top: 5px;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #3d8b40;
+    border-color: #3d8b40;
+}
+
+.col-auto {
+    margin-top: 20px;
+    color: #3d8b40;
 }

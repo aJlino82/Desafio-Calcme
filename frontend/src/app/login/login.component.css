@@ -1,0 +1,8 @@
+.card-title {
+    height: 60px;
+    display: flex;
+    align-items: center;
+    background-color: #002151;
+    color: white;
+    font-weight: 600;
+}

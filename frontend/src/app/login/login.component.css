@@ -1,5 +1,9 @@
 .container {
-    margin-top: 100px;
+    margin-top: 80px;
+}
+
+.card {
+    border-radius: 4px;
 }
 
 .card-title {
@@ -20,6 +24,6 @@
 }
 
 .col-auto {
-    margin-top: 20px;
+    margin-top: 5px;
     color: #3d8b40;
 }
